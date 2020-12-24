@@ -4,7 +4,7 @@
   "description": "volunteers module for Midburn's Spark",
   "main": "server/server.js",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "classnames": "^2.2.6",
     "co": "^4.6.0",
